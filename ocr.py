@@ -6,3 +6,5 @@
 #man what is happening
 #i came to know that i can only review changes if i do pull request otherwise not
 #hello,what are doing.
+print("hello")
+print("world")
